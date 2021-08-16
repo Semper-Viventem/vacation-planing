@@ -59,7 +59,7 @@ _(Eur per person)_
 🛌  Spend the night in **Dubrovnik** <br>
  <br>
 // TODO (Rijeka, Pula etc.) <br>
-### 24.09 <br>
+### 25.09 <br>
 
 🚗  Move to **Graz** <br>
 💃  Have fun in **Graz** <br>
